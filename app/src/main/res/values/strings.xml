@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="created_by">Created by</string>
+    <string name="ghyanmitra">Ghyanmitra</string>
+    <string name="start_test">Start test</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="cart">Cart</string>
+    <string name="question"><b>01</b> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum?</string>
+    <string name="explainaton">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</string>
+
+    <string name="correct_ans_text">Wah Paaji..! Tussi Great ho.</string>
+    <string name="incorrect_ans_text">Oops, that\'s wrong one. \n You can get next one right.</string>
+
+</resources>
